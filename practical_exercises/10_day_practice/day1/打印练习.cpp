@@ -19,6 +19,6 @@ int main(int argc, char const *argv[])
             cout<<'*';
         cout<<endl;
     }
-    system("pause");    //system(“pause”) 是调用DOS系统的bai暂停命令du pause 来暂停程序执行，按任意一zhi个键后将继续dao执行。
+    system("pause");    //system(“pause”) 是调用DOS系统的暂停命令pause来暂停程序执行，按任意一个键后将继续执行。
     return 0;
 }
